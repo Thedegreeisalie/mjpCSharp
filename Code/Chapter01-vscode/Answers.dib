@@ -1,0 +1,24 @@
+#!markdown
+
+1. Meh not for my use case where it's more important that the IDE be free.
+    MJP says: The best tool to use is the one you're already familiar with.
+2. Yes .net 6 the latest and greatest 
+    MJP says: .net framework is only for legacy it is old and shouldn't be your focus unless you're working on code that will run on older machines
+~~3. It's the legacy 'ideal' that all the .nets should aspire to meet~~
+    MJP says: .net standard is an API made to unify the three houses of microsoft, net core, net framework, and Xamarin. Any of the net platforms will implement the net standard, but this is not as needed anymore because .net 6 is cross platform
+4. Compilers take away the language specific parts of net
+    MJP says: the compiler in dotnet converts source code into Intermediate Language code and stores it in an assembly. IL code is then executed by the net Virtual Machine, CoreCLR. (This goes on to be converted again into CPU isntructions prior to execution). It is this IL code that allows net to execute regardless of the Source Code Language
+5. Main as follows
+
+#!csharp
+
+static void Main(string[] args)
+
+#!markdown
+
+~~6. Top level just refers to the folder it's run in. add them when you run the dotnet command~~
+    MJP says: Top level programs are programs where the significant proportion of the code is generated and wrapped around the statements you write.
+7. dotnet run
+8. Being able to switch between c# and markdown for more rapid proofing. Having a more interactive interface for running code
+9. Microsoft's documentation of .net
+10. stack overflow or dotnet -help

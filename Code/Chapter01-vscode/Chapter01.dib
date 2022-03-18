@@ -1,0 +1,12 @@
+#!csharp
+
+Console.WriteLine("Get bent, .NET interactive!")
+
+#!csharp
+
+#!about
+
+#!markdown
+
+# Chapter one for Hello, C# 
+Mixing *rich* **text** and code is so lame nobody would want to do it
