@@ -1,2 +1,2 @@
 mjpCSharp
-Solutions to the problems in the C# book form Mark j price
+Solutions to the problems in the C# book from Mark J Price
