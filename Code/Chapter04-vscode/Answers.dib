@@ -1,0 +1,16 @@
+#!markdown
+
+1. What does `void` mean
+2. What are some differences between imperative and functional programming styles
+3. In VSCode, what is the difference between F5, ctrl F5, shift F5, and ctrl shift F5
+4. where does the `Trace.writeLine` method write its output to?
+5. What are the 5 trace levles?
+6. What id the difference between the `debug` and `trace` classes?
+7. When writing a unit test, what are the three As?
+8. When writing a unit test using xUnit, what attribute must you decorate the test method with?
+9. What `dotnet` command execute xUnit tests?
+10. what statement should you use to rethrow a cauthg exception named `ex` without losing the stack trace?
+
+#!markdown
+
+Create a workspace named PrimeFactors to cointain three projects: A class library with a method named PrimeFactors, that when passed an int variable as a parameter, retuns a string showing its prime factors; a unit test project; and a console application to use it.
